@@ -1,7 +1,7 @@
 # PyGTFO
 GTFOBins Offline Terminal with python
 
-**A python3 script which utilizes a custom GTFOBins dictionary to search and report how to exploit all the possible binaries ^^**
+**A python3 script which uses a custom GTFOBins dictionary to search and report how to exploit all the possible binaries ^^**
 
 <img src="https://i.imgur.com/ifdb7oO.png" />
 
@@ -11,7 +11,9 @@ A script made in python3 to perferm offline an offline seach in GTFOBins to use 
 - List all the privileges available for each binary
 - Print how to exploit a specific binary by privileges
 
-### Changelog
+### Notes
+
+The dictionary is not complete in this moment, I will be updating it in the following days.
 
 ### Download & Use
 
@@ -40,4 +42,4 @@ A script made in python3 to perferm offline an offline seach in GTFOBins to use 
 
 <img src="https://i.imgur.com/wHzdex9.png" />
 
-Let me know, what you think of this script at [@DrakuKled](https://twitter.com/DrakuKled) 
+Let me know what you think of this script at [@DrakuKled](https://twitter.com/DrakuKled) 
