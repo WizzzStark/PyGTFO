@@ -6,7 +6,7 @@ GTFOBins Offline Terminal with python
 <img src="https://i.imgur.com/ifdb7oO.png" />
 
 ### Description
-A script made in python3 to perferm offline an offline seach in GTFOBins to use in machines/CTFs and do the following
+A script made in python3 to perferm offline an offline seach in GTFOBins to use in machines and do the following:
 - List all the binaries in the disctionary
 - List all the privileges available for each binary
 - Print how to exploit a specific binary by privileges
