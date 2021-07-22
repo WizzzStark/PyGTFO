@@ -30,9 +30,14 @@ A script made in python3 to perferm offline an offline seach in GTFOBins to use 
 
 ***Show usage menu***
 
-	python suid3num.py -m
+	python3 pyGTFO.py -m
 
 ### Output
 
+<img src="https://i.imgur.com/xU4Djpm.png" />
+
+<img src="https://i.imgur.com/uB9Y3pn.png" />
+
+<img src="https://i.imgur.com/wHzdex9.png" />
 
 Let me know, what you think of this script at [@DrakuKled](https://twitter.com/DrakuKled) 
