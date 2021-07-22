@@ -15,6 +15,14 @@ A script made in python3 to perferm offline an offline seach in GTFOBins to use 
 
 The dictionary is not complete in this moment, I will be updating it in the following days.
 
+### Dependencies
+
+PyGTFO requires the following non-standard Python libraries to be installed:
+
+	colorama (pip install colorama)
+	
+It can also be installed with the command: pip install -r requirements.txt
+
 ### Download & Use
 
 	wget [] --no-check-certificate && chmod 777 suid3num.py
