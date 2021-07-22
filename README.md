@@ -3,7 +3,6 @@ GTFOBins Offline Terminal with python
 
 **A python3 script which utilizes a custom GTFOBins dictionary to search and report how to exploit all the possible binaries ^^**
 
-[![asciicast](https://asciinema.org/a/343568.svg)](https://asciinema.org/a/343568)
 
 ### Description
 A script made in python3 to perferm offline an offline seach in GTFOBins to use in machines/CTFs and do the following
