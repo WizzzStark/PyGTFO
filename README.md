@@ -25,7 +25,7 @@ It can also be installed with the command: pip install -r requirements.txt
 
 ### Download & Use
 
-	git clone https://github.com/WizzzStark/PyGTFO && chmod 777 pyGTFO.py
+	git clone https://github.com/WizzzStark/PyGTFO 
 	
 ### Usage
 
