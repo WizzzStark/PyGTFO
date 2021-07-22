@@ -20,7 +20,12 @@ A script made in python3 to perferm offline an offline seach in GTFOBins to use 
 
 ***Initializing Script***
 
-	python3 pyGTFO.py
+	python3 pyGTFO.py -b [BINARY] -p [PRIVILEGE]
+	
+***List all binaries and privileges***
+
+	python3 pyGTFO.py -lb (List all binaries)
+	python3 pyGTFO.py -b [BINARY] -lp (List all possible privileges)
 
 ***Show usage menu***
 
