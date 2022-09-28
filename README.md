@@ -13,7 +13,7 @@ A script made in python3 to perferm an offline seach in GTFOBins to use in machi
 
 ### Notes
 
-The dictionary is not complete in this moment, I will be updating it in the following days.
+Some unusual commands are missing, i will be updating it in the future.
 
 ### Dependencies
 
