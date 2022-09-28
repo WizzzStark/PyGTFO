@@ -50,4 +50,4 @@ It can also be installed with the command: pip install -r requirements.txt
 
 <img src="https://i.imgur.com/wHzdex9.png" />
 
-Let me know what you think of this script at [@DrakuKled](https://twitter.com/DrakuKled) 
+Let me know what you think of this script at [@DrakuKled](https://twitter.com/WizzzStark) 
